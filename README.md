@@ -58,12 +58,7 @@ Please ensure that at least you stopped all the containers to avoid consuming re
 (cd react-dojo && docker-compose down --rmi all -v)
 docker-compose down --rmi all -v
 ```
-
 ## Resources
-
-[Powerpoint of this coding dojo](https://wiley-my.sharepoint.com/:p:/p/fchastanet/Ecfnd18lBc5AnRMZWr2Jk00B3vg32A9uiYuGQbXYTzFlWw?e=eBd8Jc)
 
 [Jenkins Glossary](https://www.jenkins.io/doc/book/glossary/): explains the terms Agent,
 Controller, Step, Stage, ...
-
-[How to write a Jenkinsfile](https://confluence.wiley.com/display/PL/%5BWIP%5D+How+to+write+a+Jenkinsfile)
