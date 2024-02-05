@@ -17,7 +17,7 @@ docker pull registry:2.8.2
 ## Installation
 
 Clone this project in wsl:
-`git clone git@github.com:wiley/pl_coding_dojo_jenkins.git`
+`git clone (https://github.com/dathatcher/coding-dojo.git)`
 
 From this project directory, run the following command that will create necessary
 ssh keys, for jenkins controller and agent being able to communicate.
@@ -60,5 +60,5 @@ docker-compose down --rmi all -v
 ```
 ## Resources
 
-[Jenkins Glossary](https://www.jenkins.io/doc/book/glossary/): explains the terms Agent,
+[Jenkins Glossary]: explains the terms Agent,
 Controller, Step, Stage, ...
